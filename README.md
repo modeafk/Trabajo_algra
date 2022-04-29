@@ -3,8 +3,11 @@
 ALGEBRA ABSTRACTA
 
 INTEGRANTES:
+
 Marcelo Torres Acuña
+
 Jhon Berly Taype Alccaccahua
+
 Brian Jesse Bermudez Navarro
 
 
@@ -13,6 +16,7 @@ Brian Jesse Bermudez Navarro
 Este programa se basa en hallar la inversa de un numero mediante el algoritmo de euclides y el algoritmo extendido de euclides
 
 INSTRUCCIONES:
+
 -El pograma le pedira al usuario que ingrese un numero para a y para n. 
 
 -EL pograma nos dara como salida el inverso de un numero, en este caso sera el inverso de a.
