@@ -17,8 +17,9 @@ def inverso(a,n):
     d,x,y=e_euclides(a,n)
     return(x%n)
   else:
-    return "no tiene inverso por la ptmre:"
+    return "No tiene inverso"
     
-a=(int(input("ingrese 'a': ")))
-n=(int(input("ingrese 'n': ")))
-print(inverso(a,n))
+a=(int(input("ingrese valor para 'a': ")))
+n=(int(input("ingrese un valor para 'n': ")))
+
+print("el inverso de a es: ",inverso(a,n))
